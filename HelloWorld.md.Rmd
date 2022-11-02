@@ -1,8 +1,0 @@
----
-title: "HelloWorld.md"
-author: "khin"
-date: "2022-11-02"
-output: pdf_document
----
-
-## This is a markdownfile
